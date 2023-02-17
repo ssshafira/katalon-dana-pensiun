@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Close Footer</name>
+   <tag></tag>
+   <elementGuidId>1507f025-5a55-4046-95bc-aae85b5e9b4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pc-button']/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pc-button > button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>85015517-7d2e-47b2-88b5-a57271d42541</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-content</name>
+      <type>Main</type>
+      <value>x</value>
+      <webElementGuid>0549b73f-bc46-4c84-8f57-3b75c047edd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pc-button&quot;)/button[1]</value>
+      <webElementGuid>6d457be7-0415-46c9-adfc-dbfe2193484d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pc-button']/button</value>
+      <webElementGuid>e063712c-d921-4ff1-8b5d-bd2da6dd1cbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>1a9ddbc1-877f-47f3-9fb7-360199a9a76b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

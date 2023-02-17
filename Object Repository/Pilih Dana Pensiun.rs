@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Pilih Dana Pensiun</name>
+   <tag></tag>
+   <elementGuidId>aef660f8-6be4-4211-889b-202b781ed8c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='solutionFinderOption']/div[2]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.glyph-icon.flaticon-arrows</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>22ef4009-fc5a-4337-a659-970c4244386c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyph-icon flaticon-arrows</value>
+      <webElementGuid>aecfaec2-3e38-48d5-ba40-838fd354d671</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;solutionFinderOption&quot;)/div[@class=&quot;col-md-2&quot;]/button[1]/span[@class=&quot;glyph-icon flaticon-arrows&quot;]</value>
+      <webElementGuid>c418790c-c19d-4373-a691-297674c7aaea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='solutionFinderOption']/div[2]/button/span</value>
+      <webElementGuid>ac65fdfd-cbe3-49d8-b0d7-406d2bf8c20b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>38626595-d5d8-4bd5-a7ed-514a37ce6e93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

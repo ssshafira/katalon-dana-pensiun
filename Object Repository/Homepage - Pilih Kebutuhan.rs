@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Homepage - Pilih Kebutuhan</name>
+   <tag></tag>
+   <elementGuidId>393806c6-75a3-4d43-8292-4340c1a5a8d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = '- Silakan pilih di sini -' or . = '- Silakan pilih di sini -')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.jcf-select-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>80872b6b-972f-447b-86ef-8dc58f37d279</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jcf-select-text</value>
+      <webElementGuid>c56980e2-5e82-4535-aec4-286096690942</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Silakan pilih di sini -</value>
+      <webElementGuid>bc934523-3044-45e3-85ef-235f647cd525</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;solutionFinderOption&quot;)/div[@class=&quot;col-md-10&quot;]/span[@class=&quot;jcf-select jcf-unselectable jcf-drop-active jcf-focus&quot;]/span[@class=&quot;jcf-select-text&quot;]</value>
+      <webElementGuid>2e598224-6d18-47aa-a730-a4f309a92275</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='solutionFinderOption']/div/span/span</value>
+      <webElementGuid>e5d03dba-7d7d-4bb9-89a7-60e2622a8550</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebutuhan Apa yang Anda Cari?'])[1]/following::span[2]</value>
+      <webElementGuid>838f991a-fef6-4c2c-a8e1-1180130d8864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::span[2]</value>
+      <webElementGuid>950e8932-6d03-457d-9c71-1f50a330cba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- Silakan pilih di sini -'])[3]/preceding::span[3]</value>
+      <webElementGuid>8d8831b4-7660-4d27-a204-a5194cb859e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>fd9eea67-d87d-4454-ba62-d1562e02c44b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '- Silakan pilih di sini -' or . = '- Silakan pilih di sini -')]</value>
+      <webElementGuid>36033be5-11de-42bb-8ab1-5841be7550b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
